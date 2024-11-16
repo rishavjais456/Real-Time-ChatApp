@@ -12,3 +12,7 @@ HTML, CSS, and JavaScript for the chat interface.
 Backend
 Node.js: Handles server-side logic.
 Socket.IO: Provides WebSocket-based real-time communication.
+
+
+
+//new changes
